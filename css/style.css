@@ -1,0 +1,98 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h3, h4{
+    color:#916c02;
+
+}
+h5{
+    color: #c3ab5e;
+}
+p{
+    color:#8d9395;
+}
+
+/* top header section */
+.toph{
+    background-color: #f9f8f3;
+    text-align: right;
+    padding: 0 13%
+}
+.toph p{
+    color:#916c02;
+}
+/* top header section end */
+
+
+/*nav manu section  */
+.mynav a{
+    text-decoration: none;
+    color: black;
+}
+.mynav a:hover{
+    color: #916c02;
+}
+.span1{
+    background-color: white;
+}
+span{
+   
+    color: #916c02;
+}
+/* my nav section end */
+
+
+/* slider section start */
+.ic1{
+    font-size: 35px;
+}
+/* slider section end */
+
+
+
+
+/* options section start */
+.ic2{
+    color: #c3ab5e;
+    font-size: 18px;
+    border: 2px solid #c3ab5e;
+    padding: 10px 10px;
+    border-radius: 50%;
+    background-color: #f9f8f3;
+}
+/* options section end */
+
+/* form section start */
+.brdr{
+    border: 2px solid #f9f8f3;
+}
+.inpt{
+    background-color: #f9edd5 !important;
+}
+.butn{
+    background-color: #916c02  !important;
+    color: #f9f8f3 !important;
+
+}
+/* form section end */
+
+/* elitecorp section start */
+.bgc1{
+    background-color: #f9edd5;
+}
+.list1 a{
+    color: black;
+}
+.p1{
+    color: black;
+}
+/* elitecorp section end */
+
+/* footer section start */
+.ftr{
+    background-color: #916c02;
+
+}
+
+/* footer section end */
